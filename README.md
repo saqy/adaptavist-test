@@ -1,7 +1,6 @@
 # adaptavist-test
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Frontend is build using React JS, bootstrap on frontend and Node, express, mongodb on backend.
 
 # Tech stack 
 - React
